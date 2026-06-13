@@ -106,7 +106,7 @@ class Prajin:
 |:--------|:------|:-----------|
 | [🛰️ GPS Tracker PCB (STM32 + NEO-6M)](https://github.com/Prajin2007) | STM32 · NEO-6M · KiCad · UART | Custom PCB integrating STM32 microcontroller with GPS module; handled power supply design, component selection, schematic, and full PCB layout with DRC validation |
 | [📋 Face Recognition Attendance System](https://github.com/Prajin2007) | Python · OpenCV · face_recognition | Python-based automated attendance system using real-time face detection; developed as Class 12 AI project |
-| [⚙️ MSPS0](https://github.com/Prajin2007) | Embedded C · PCB Design · KiCad | Custom embedded hardware project with dedicated PCB design and schematic layout |
+| [⚙️ MSPS0](https://github.com/Prajin2007) | PCB Design · KiCad | Custom embedded hardware project with dedicated PCB design and schematic layout |
 | [🔌 USB to UART Converter PCB](https://github.com/Prajin2007) | KiCad · Altium · USB · UART | Designed a USB to UART bridge PCB for serial communication; complete schematic and layout with DRC validation |
 | [🔋 Breadboard Power Supply PCB](https://github.com/Prajin2007) | KiCad · Power Electronics · PCB Layout | Designed a regulated power supply PCB for breadboard use; includes voltage regulation, decoupling, and compact layout |
 | [🛸 Mini Satellite (Custom PCB + Raspberry Pi Pico)](https://github.com/Prajin2007) | Raspberry Pi Pico · KiCad · Python · Custom PCB | Built a mini satellite prototype with a custom PCB integrating Raspberry Pi Pico; designed for sensor data acquisition and telemetry |
