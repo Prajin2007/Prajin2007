@@ -15,7 +15,7 @@
 ```python
 class Prajin:
     name        = "Prajin S"
-    location    = "Tamil Nadu, India"
+    location    = "Chennai, Tamil Nadu, India"
     degree      = "B.Tech – Electronics & Instrumentation Engg."
     university  = "VIT Vellore (2025–2029)"
 
@@ -27,7 +27,9 @@ class Prajin:
 
     currently_learning = [
         "SWD Debugging",
-        "STM32 Advanced Peripherals",
+        "STM32 Peripherals",
+        "PCB Design",
+        "Embedded Systems",
         "IoT System Architecture"
     ]
 
@@ -53,6 +55,7 @@ class Prajin:
 **PCB Design**
 
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
+![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=flat-square&logo=altiumdesigner&logoColor=white)
 
 **Programming**
 
@@ -75,26 +78,11 @@ class Prajin:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/prajins">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prajins&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-</a>
-<a href="https://github.com/prajins">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajins&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-</a>
-
-</div>
-
----
-
 ## 🔥 Streak Stats
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=prajins&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Prajin2007&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
@@ -104,39 +92,9 @@ class Prajin:
 
 <div align="center">
 
-[![Prajin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prajins&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/prajins)
+[![Prajin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prajin2007&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/Prajin2007)
 
 </div>
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=prajins&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 💼 Work Experience
-
-<details>
-<summary>🎓 <strong>VIT Vellore</strong> — B.Tech Student in EIE &nbsp;|&nbsp; 2025–2029 &nbsp;|&nbsp; Vellore, Tamil Nadu</summary>
-
-> ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-> ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-> ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
-> ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
-> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-- 🔭 Pursuing B.Tech in Electronics and Instrumentation Engineering with a focus on embedded systems and hardware design
-- 🛠️ Independently designed a **GPS Tracker PCB** using STM32 and NEO-6M as a hands-on hardware project
-- 🤖 Built a **Face Recognition Attendance System** in Python, combining AI with real-world automation
-- 📐 Actively developing skills in PCB layout, schematic design, and microcontroller firmware development
-
-</details>
 
 ---
 
@@ -146,24 +104,12 @@ class Prajin:
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| [🛰️ GPS Tracker PCB (STM32 + NEO-6M)](https://github.com/prajins) | STM32 · NEO-6M · KiCad · UART | Custom PCB integrating STM32 microcontroller with GPS module; handled power supply design, component selection, schematic, and full PCB layout with DRC validation |
-| [📋 Face Recognition Attendance System](https://github.com/prajins) | Python · OpenCV · face_recognition | Python-based automated attendance system using real-time face detection; developed as Class 12 AI project, achieving reliable recognition accuracy |
-
-</div>
-
----
-
-## 🏅 Achievements
-
-<div align="center">
-
-| 🏆 | Achievement | Details |
-|:--:|:------------|:--------|
-| 🎓 | Class XII Board | Scored **93%** — Top academic performance |
-| 📚 | Class X Board | Scored **86%** — Strong academic foundation |
-| 🔬 | AI Project — Class 12 | Built face recognition attendance system; selected as Class 12 AI capstone project |
-| ⚡ | PCB Design (First Year) | Independently designed a multi-component GPS tracker PCB using STM32 + KiCad as a first-year undergraduate |
-| 🌐 | Bilingual Engineer | Fluent in **English** and **Tamil** |
+| [🛰️ GPS Tracker PCB (STM32 + NEO-6M)](https://github.com/Prajin2007) | STM32 · NEO-6M · KiCad · UART | Custom PCB integrating STM32 microcontroller with GPS module; handled power supply design, component selection, schematic, and full PCB layout with DRC validation |
+| [📋 Face Recognition Attendance System](https://github.com/Prajin2007) | Python · OpenCV · face_recognition | Python-based automated attendance system using real-time face detection; developed as Class 12 AI project |
+| [⚙️ MSPS0](https://github.com/Prajin2007) | Embedded C · PCB Design · KiCad | Custom embedded hardware project with dedicated PCB design and schematic layout |
+| [🔌 USB to UART Converter PCB](https://github.com/Prajin2007) | KiCad · Altium · USB · UART | Designed a USB to UART bridge PCB for serial communication; complete schematic and layout with DRC validation |
+| [🔋 Breadboard Power Supply PCB](https://github.com/Prajin2007) | KiCad · Power Electronics · PCB Layout | Designed a regulated power supply PCB for breadboard use; includes voltage regulation, decoupling, and compact layout |
+| [🛸 Mini Satellite (Custom PCB + Raspberry Pi Pico)](https://github.com/Prajin2007) | Raspberry Pi Pico · KiCad · Python · Custom PCB | Built a mini satellite prototype with a custom PCB integrating Raspberry Pi Pico; designed for sensor data acquisition and telemetry |
 
 </div>
 
@@ -188,8 +134,9 @@ class Prajin:
 ```
 🧱 SWD Debugging        → OpenOCD · ST-Link · Cortex-M debug interface
 ⚡ STM32 Peripherals    → Timers · ADC · DMA · HAL Library
+🔲 Embedded Systems     → RTOS · Bare-metal programming · Firmware development
 🌐 IoT Architecture     → MQTT · ESP32 WiFi · Cloud connectivity
-🔌 PCB Advanced         → Signal integrity · Multi-layer boards · EMC design
+🔌 PCB Design           → Signal integrity · Multi-layer boards · EMC design
 🐍 Python for Hardware  → pyserial · GPIO · automation scripts
 ```
 
@@ -199,11 +146,9 @@ class Prajin:
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-your--email%40example.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prajin%20S-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![GitHub](https://img.shields.io/badge/GitHub-prajins-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prajins)
-
-![Profile Views](https://komarev.com/ghpvc/?username=prajins&color=70a5fd&style=flat-square&label=Profile+Views)
+[![Email](https://img.shields.io/badge/Email-prajins203%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:prajins203@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prajin%20S-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajin-s-5880b3328/)
+[![GitHub](https://img.shields.io/badge/GitHub-Prajin2007-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Prajin2007)
 
 </div>
 
