@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Prajin%20S&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Electronics%20%26%20Embedded%20Systems%20Enthusiast%20%7C%20PCB%20Designer%20%7C%20IoT%20Builder&amp;descAlignY=62&amp;descSize=16" width="100%"/>
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Prajin+%F0%9F%91%8B;Electronics+%26+Instrumentation+Engineer;Embedded+Systems+%7C+PCB+Design+%7C+IoT;Building+hardware+that+makes+a+difference+%F0%9F%94%A7)](https://git.io/typing-svg)
