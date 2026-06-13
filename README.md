@@ -122,8 +122,8 @@ class Prajin:
 | Degree | Institution | Year | Score |
 |:-------|:------------|:----:|:-----:|
 | B.Tech – Electronics & Instrumentation Engineering | VIT Vellore | 2025–2029 | 🔄 In Progress |
-| Class XII | — | 2025 | 93% |
-| Class X | — | 2023 | 86% |
+| Class XII | MVM | 2025 | 93% |
+| Class X | MVM | 2023 | 86% |
 
 </div>
 
